@@ -1,0 +1,97 @@
+---
+id: xy1-113
+name: Fletchling
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '50'
+types:
+- Colorless
+evolvesTo:
+- Fletchinder
+attacks:
+- name: Me First
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Draw a card.
+- name: Peck
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Lightning
+  value: "×2"
+resistances:
+- type: Fighting
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: xy1
+  name: XY
+  series: XY
+  printedTotal: 146
+  total: 146
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: XY
+  releaseDate: 2014/02/05
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/xy1/symbol.png
+    logo: https://images.pokemontcg.io/xy1/logo.png
+number: '113'
+artist: 5ban Graphics
+rarity: Common
+flavorText: These friendly Pokémon send signals to one another with beautiful chirps
+  and tail-feather movements.
+nationalPokedexNumbers:
+- 661
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/xy1/113.png
+  large: https://images.pokemontcg.io/xy1/113_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/xy1-113
+  updatedAt: 2023/09/14
+  prices:
+    normal:
+      low: 0.04
+      mid: 0.22
+      high: 2.52
+      market: 0.21
+      directLow: 0.1
+    reverseHolofoil:
+      low: 0.12
+      mid: 0.43
+      high: 2.72
+      market: 0.49
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/xy1-113
+  updatedAt: 2023/09/14
+  prices:
+    averageSellPrice: 0.08
+    lowPrice: 0.02
+    trendPrice: 0.07
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.1
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.54
+    lowPriceExPlus: 0.02
+    avg1: 0.09
+    avg7: 0.07
+    avg30: 0.07
+    reverseHoloAvg1: 0.1
+    reverseHoloAvg7: 0.48
+    reverseHoloAvg30: 0.42
